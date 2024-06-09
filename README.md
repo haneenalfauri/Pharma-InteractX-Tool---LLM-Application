@@ -8,6 +8,7 @@ Relation Extraction (RE). We reframe the sentence classification task into a joi
 **Repository Structure**
 
 Pharma_InteractX_Tool___LLM_Application.pdf: A comprehensive report detailing the full project description.
+
 Pharma_InteractX_LLM.ipynb: The Python notebook for the project.
 
 Feel free to explore the repository and reach out if you have any questions or need further assistance.  :) 
